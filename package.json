@@ -1,0 +1,22 @@
+{
+  "name": "climate-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valary16/Climate.git"
+  },
+  "author": "Valary Ajwang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valary16/Climate/issues"
+  },
+  "homepage": "https://github.com/Valary16/Climate#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
