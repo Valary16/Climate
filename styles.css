@@ -1,0 +1,22 @@
+:root{
+        --blue: #47B5FF;
+        --peach: #F3BDA1;
+        --navy: #0028FF;
+        --cream: #F9F9F9
+}
+.body{
+    background-color: var(--peach);
+}
+.pages{
+ margin: 0%;
+ list-style-type: none;
+ justify-content: flex-end;
+ display: flex;
+}
+.unorderedlist{
+    margin: 0%;
+ list-style-type: none;
+ justify-content: flex-end;
+ display: flex;
+ gap:20px;
+}
